@@ -1,0 +1,2 @@
+# fullpage
+rem适配
